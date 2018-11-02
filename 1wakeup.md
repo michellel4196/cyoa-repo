@@ -1,8 +1,5 @@
 You are woken up by a strange sound, should you check it out?
 
-[Check out the noise](../window.md)
+[Check out the noise](../2window.md)
 
 [Continue sleeping](../3coffin.md)
-
-
-[START OVER](../README.md)
