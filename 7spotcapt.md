@@ -1,3 +1,3 @@
 ## You get noticed, and are **captured**
 
-### [Start over?](../1wakeup.md)
+### [Start over?](1wakeup.md)
