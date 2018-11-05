@@ -1,6 +1,6 @@
 Even though you cry for help from the top of your lungs, your parents cannot hear you
 
-![HELP](../images/5cryforhelp.jpeg)
+![HELP](images/5cryforhelp.jpeg)
 ___
 [Accept your fate](4fate.md)
 
