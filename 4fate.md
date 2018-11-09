@@ -2,4 +2,4 @@
 
 ![fate](images/4fateimg.jpg)
 ___
-[Start Over](../1wakeup.md)
+[Start Over](1wakeup.md)
