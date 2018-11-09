@@ -1,4 +1,4 @@
-The purpose of this project was to go with the Halloween theme, when we were planning this project it was during Halloween so we desided to go with this theme. We decided to do something more spooky. 
+The purpose of this project was to go with the Halloween theme, when we were planning this project it was during Halloween so we decided to go with this theme. 
 
 [START GAME](1wakeup.md)
 
